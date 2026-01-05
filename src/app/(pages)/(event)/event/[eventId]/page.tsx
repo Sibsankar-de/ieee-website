@@ -47,7 +47,7 @@ export default function EventRegistration() {
         <div className="absolute z-2 inset-0 space-y-8 flex flex-col justify-center p-10">
           {/* Title */}
           <div className="flex flex-col justify-c enter gap-3">
-            <h2 className="text-white text-3xl md:text-4xl lg:text-6xl">
+            <h2 className="text-white text-3xl md:text-4xl lg:text-6xl font-bold">
               {eventData?.title}
             </h2>
             <h4 className="text-white md:text-lg lg:text-xl">
@@ -87,7 +87,7 @@ export default function EventRegistration() {
       <div className="grid md:grid-cols-[70%_30%] gap-5 lg:gap-10 mx-auto max-sm:px-5 px-10 lg:px-20 my-12">
         <div>
           {/* About */}
-          <h1 className="lg:text-4xl md:text-2xl text-xl mb-8">
+          <h1 className="md:text-2xl text-xl mb-8">
             About This Event
           </h1>
           <div className="rounded-xl border-2 border-gray-200 border-l-5 border-l-[var(--primary)] p-8 bg-gray-100">
@@ -98,7 +98,7 @@ export default function EventRegistration() {
         </div>
         {/* registration */}
         <div className="shadow-2xl rounded-xl space-y-2 sticky top-[20px] h-fit bg-gray-100">
-          <h2 className="text-center md:text-2xl lg:text-4xl text-xl p-3">
+          <h2 className="text-center md:text-2xl text-xl p-3">
             Registration
           </h2>
           <div className="text-gray-600 border-t-2 border-[var(--background)] space-y-6 p-4">
