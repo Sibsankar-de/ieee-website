@@ -43,22 +43,22 @@ export default function AboutPage() {
   // History Data
   const historyData = [
     {
-      year: "1884",
-      heading: "Foundation",
+      year: "2021",
+      heading: "Establishment",
       event:
-        "IEEE was formed through the merger of the American Institute of Electrical Engineers (AIEE, founded 1884) and the Institute of Radio Engineers (IRE, founded 1912).",
+        "The IEEE Student Branch at Jalpaiguri Government Engineering College was founded, creating a dedicated platform for students to explore technology and research.",
     },
     {
-      year: "1963",
-      heading: "IEEE Formation",
+      year: "2022–2023",
+      heading: "Growth & Engagement",
       event:
-        "The Institute of Electrical and Electronics Engineers (IEEE) was officially formed, creating the world's largest technical professional organization.",
+        "The branch expanded its activities through seminars, workshops, project initiatives, and student participation in conferences and competitions.",
     },
     {
       year: "Today",
-      heading: "Global Impact",
+      heading: "Inspiring Future Innovators",
       event:
-        "IEEE now serves over 400,000 members in more than 160 countries, continuing to advance technology for the benefit of humanity.",
+        "The Student Branch continues to empower students, foster leadership, and promote innovation while contributing to the broader IEEE community.",
     },
   ];
 

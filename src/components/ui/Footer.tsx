@@ -27,7 +27,7 @@ export const Footer = () => {
                 href="/about"
                 className="hover:text-white transition-colors"
               >
-                About IEEE
+                About Us
               </Link>
             </li>
             <li>
