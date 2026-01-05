@@ -19,7 +19,8 @@ export default function MemberAddPage() {
     "2nd year",
     "3rd year",
     "4th year",
-    "alumni",
+    "Alumni",
+    "Professor",
   ];
   const departmentOptions = [
     "IT Department",
@@ -235,7 +236,7 @@ export default function MemberAddPage() {
                 />
               </div>
               <div>
-                <div className="mb-2 text-sm">department *</div>
+                <div className="mb-2 text-sm">Department *</div>
                 <Select
                   placeholder="Select department"
                   options={departmentOptions}
