@@ -95,12 +95,13 @@ export default function AboutPage() {
       <div className="page-title-box !py-17">
         <FadeInAnimation>
           <h1 className="text-5xl text-center font-bold text-white mb-4">
-            About IEEE
+            IEEE Student Branch JGEC
           </h1>
           <h4 className="text-center text-lg  text-gray-300 max-sm:text-sm">
-            The Institute of Electrical and Electronics Engineers (IEEE) is the
-            world's largest technical professional organization dedicated to
-            advancing technology for the benefit of humanity.
+            The IEEE Student Branch at Jalpaiguri Government Engineering College
+            (JGEC) is a community of aspiring engineers and innovators,
+            dedicated to advancing technology and learning for the benefit of
+            society.
           </h4>
         </FadeInAnimation>
       </div>
